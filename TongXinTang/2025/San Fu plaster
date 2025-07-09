@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> 同心堂2025 三伏調理 貼出體質新活力 </title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-color: #fff;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    a {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<img src="./2025同心堂三伏貼-01.jpg" alt="2025同心堂三伏貼-01">
+<img src="./2025同心堂三伏貼-02.jpg" alt="2025同心堂三伏貼-02">
+<a href="https://line.me/R/ti/p/@qyi9146p" target="_blank" rel="noopener noreferrer">
+  <img src="./2025同心堂三伏貼-03.jpg" alt="2025同心堂三伏貼-03">
+</a>
+
+</body>
+</html>

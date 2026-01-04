@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> 同心堂2026馬年 </title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-color: #fff;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    a {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<img src="./工作區域 1.png" alt="工作區域 1">
+<img src="./工作區域 1_1.png" alt="工作區域 1_1">
+<img src="./工作區域 1_2.png" alt="工作區域 1_2">
+<img src="./工作區域 1_3.png" alt="工作區域 1_3">
+<a href="https://line.me/R/ti/p/@qyi9146p" target="_blank" rel="noopener noreferrer">
+  <img src="./工作區域 1_4.png" alt="工作區域 1_4">
+</a>
+
+</body>
+</html>
